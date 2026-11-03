@@ -397,7 +397,7 @@ button:focus-visible {
 .founder {
   display: flex;
   gap: 32px;
-  align-items: flex-start;
+  align-items: center;
   color: var(--ink-dark);
 }
 
@@ -411,7 +411,6 @@ button:focus-visible {
 .founder-copy {
   display: grid;
   gap: 12px;
-  padding-top: 4px;
 }
 
 .founder-caption {
